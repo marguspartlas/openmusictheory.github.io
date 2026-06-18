@@ -9,9 +9,8 @@ title: Minuet form
 
 # Formal containers in the classical minuet #
 
-TEST
 
-A classical minuet movement typically contains a *main minuet*, followed by a *trio* that is very similar in structure with a minuet, followed by a *da capo* repeat of the main minuet (usually performed without taking the repeats). The movement, then, has a large-scale ABA' form: *minuet–trio–minuet da capo*.
+A classical minuet movement typically contains TEST a *main minuet*, followed by a *trio* that is very similar in structure with a minuet, followed by a *da capo* repeat of the main minuet (usually performed without taking the repeats). The movement, then, has a large-scale ABA' form: *minuet–trio–minuet da capo*.
 
 Both the main minuet and the trio tend to be *small ternary* structures. Like the minuet/trio movement, the small ternary form follows an ABA' structure. However, the small ternary structure found in the typical minuet is of the *rounded binary* type. That is, while there are three distinct parts—A, B, and A'—they are grouped into two larger sections, each of which is repeated. 
 
